@@ -1,0 +1,21 @@
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {"name": "Худи черного цвета с монограммами adidas Originals", "description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.", "price": "6090.00", "quantity": 10, "image": "products_images/Adidas-hoodie.png", "category": 4}},
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {"name": "Топ ASOS DESIGN", "description": "Материал с плюшевой текстурой. Удобный и мягкий.", "price": "3390.00", "quantity": 15, "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png", "category": 4}
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {"name": "Чёрный рюкзак Nike Heritage", "description": "Плотная ткань. Лёгкий материал.", "price": "2340.00", "quantity": 7, "image": "products_images/Black-Nike-Heritage-backpack.png", "category": 7}
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {"name": "Тёмно-синие брюки ASOS DESIGN", "description": "Лёгкая, эластичная фактурная ткань.", "price": "2890.00", "quantity": 4, "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png", "category": 4}
+  }
+]
